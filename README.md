@@ -1,4 +1,4 @@
-<img width="471" height="894" alt="7" src="https://github.com/user-attachments/assets/a6eeef62-ec88-47f0-a86a-e9ac66f6be33" /># StuTrack-Portfolio
+# StuTrack-Portfolio
 
 <img width="952" height="449" alt="StuTrack" src="https://github.com/user-attachments/assets/6bf4ecde-7bb2-4f21-a5ad-c20e12535798" />
 
