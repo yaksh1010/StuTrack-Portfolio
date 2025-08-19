@@ -4,7 +4,7 @@
 
 StuTrack is a smart study timer and productivity companion designed for students. It helps learners stay focused, track study sessions, build streaks, and compete on leaderboards with peers. With powerful analytics and a clean UI, StuTrack transforms study time into an engaging, measurable habit.
 
-Features
+## Features
 Study Timer: Track focused study sessions with a customizable timer.
 Leaderboard: Compete with friends and peers based on total study hours.
 Streak Tracking: Build consistency with daily streaks that encourage long-term habits.
@@ -12,14 +12,14 @@ Study Records: View detailed logs of past sessions and progress.
 Analytics Dashboard: Visualise time spent on different days and subjects.
 Engaging UI: Minimal yet motivating design to keep users productive.
 
-Tech Stack
+## Tech Stack
 Platform: Flutter
 Backend: Firebase (Firestore, Functions)
 Authentication: Firebase Authentication
 State Management: Riverpod (Timer + User Data Management)
 Design: Figma
 
-Availability
+## Availability
 StuTrack will be available on the Google Play Store for students, learners, and productivity enthusiasts soon after Client Uploads it.
 
 <img width="471" height="894" alt="1" src="https://github.com/user-attachments/assets/a7f42563-dd9d-4ef8-bfd8-ad3cca5e31b0" />
@@ -33,7 +33,7 @@ StuTrack will be available on the Google Play Store for students, learners, and 
 <img width="471" height="894" alt="9" src="https://github.com/user-attachments/assets/3e67226d-48fb-4461-a6fa-84fb3f9992ab" />
 
 
-Contact
+## Contact
 For inquiries, collaborations, or support:
 📧 Email: yakshdalwadi1002@gmail.com
 🔗 LinkedIn: Yakshraj[https://www.linkedin.com/in/yakshraj-dalwadi-85a940248/]
