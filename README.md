@@ -2,22 +2,22 @@
 
 <img width="952" height="449" alt="StuTrack" src="https://github.com/user-attachments/assets/6bf4ecde-7bb2-4f21-a5ad-c20e12535798" />
 
-StuTrack is a smart study timer and productivity companion designed for students. It helps learners stay focused, track study sessions, build streaks, and compete on leaderboards with peers. With powerful analytics and a clean UI, StuTrack transforms study time into an engaging, measurable habit.
+StuTrack is a smart study timer and productivity companion designed for students. It helps learners stay focused, track study sessions, build streaks, and compete on leaderboards with peers. With powerful analytics and a clean UI, StuTrack transforms study time into an engaging, measurable habit.<br>
 
 ## Features
-Study Timer: Track focused study sessions with a customizable timer.
-Leaderboard: Compete with friends and peers based on total study hours.
-Streak Tracking: Build consistency with daily streaks that encourage long-term habits.
-Study Records: View detailed logs of past sessions and progress.
-Analytics Dashboard: Visualise time spent on different days and subjects.
-Engaging UI: Minimal yet motivating design to keep users productive.
+Study Timer: Track focused study sessions with a customizable timer.<br>
+Leaderboard: Compete with friends and peers based on total study hours.<br>
+Streak Tracking: Build consistency with daily streaks that encourage long-term habits.<br>
+Study Records: View detailed logs of past sessions and progress.<br>
+Analytics Dashboard: Visualise time spent on different days and subjects.<br>
+Engaging UI: Minimal yet motivating design to keep users productive.<br>
 
 ## Tech Stack
-Platform: Flutter
-Backend: Firebase (Firestore, Functions)
-Authentication: Firebase Authentication
-State Management: Riverpod (Timer + User Data Management)
-Design: Figma
+Platform: Flutter<br>
+Backend: Firebase (Firestore, Functions)<br>
+Authentication: Firebase Authentication<br>
+State Management: Riverpod (Timer + User Data Management)<br>
+Design: Figma<br>
 
 ## Availability
 StuTrack will be available on the Google Play Store for students, learners, and productivity enthusiasts soon after Client Uploads it.
