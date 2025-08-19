@@ -34,6 +34,6 @@ StuTrack will be available on the Google Play Store for students, learners, and 
 
 
 ## Contact
-For inquiries, collaborations, or support:
-📧 Email: yakshdalwadi1002@gmail.com
-🔗 LinkedIn: Yakshraj[https://www.linkedin.com/in/yakshraj-dalwadi-85a940248/]
+For inquiries, collaborations, or support:<br>
+📧 Email: yakshdalwadi1002@gmail.com<br>
+🔗 LinkedIn: [Yakshraj](https://www.linkedin.com/in/yakshraj-dalwadi-85a940248/)
